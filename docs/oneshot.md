@@ -52,3 +52,7 @@ Die Anzahl der Würfe, die die magische Energie erhöhen, bestimmt, wie stark de
 
 ### **Ende des Abenteuers:**
 „Mit dem Mondsplitter in euren Händen verlasst ihr den Tempel. Ihr spürt, wie die untote Präsenz nachlässt, doch gleichzeitig wisst ihr, dass der Nekromant, der durch den Splitter Macht gewonnen hat, nun eine noch grössere Bedrohung darstellt. Ihr steht vor einer entscheidenden Wahl: Nutzt ihr die Kraft des Splitters für den Moment oder bewahrt ihr sie, um der kommenden Dunkelheit zu begegnen? Eure Entscheidung wird das Schicksal dieser Welt prägen.“
+
+# More
+
+[Mondsplitter](mondsplitter.md)

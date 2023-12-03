@@ -26,4 +26,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Welt: world.md
+  - Religion: pantheon.md
   - Start: start.md
