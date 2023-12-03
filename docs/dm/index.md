@@ -1,10 +1,10 @@
 # **Das Eklipsierte Relikt**
 
 ## **Einführung**
-In einer Welt, in der die Nutzung von Magie zunehmend negative Auswirkungen hat, werden die Abenteurer beauftragt, das "Luminary Shard" zu finden, ein magisches Artefakt, das als Machtquelle für einen verborgenen Nekromanten dient.
+In einer Welt, in der die Nutzung von Magie zunehmend negative Auswirkungen hat, werden die Abenteurer beauftragt, das "Mondsplitter" zu finden, ein magisches Artefakt, das als Machtquelle für einen verborgenen Nekromanten dient.
 
 ## **Ziel des Abenteuers**
-Die Abenteurer sollen das Luminary Shard bergen, bevor es in die falschen Hände gerät. Obwohl das Entfernen des Shards kurzfristig die Bedrohung durch Untote reduziert, stärkt es langfristig den Nekromanten.
+Die Abenteurer sollen das Mondsplitter bergen, bevor es in die falschen Hände gerät. Obwohl das Entfernen des Splitters kurzfristig die Bedrohung durch Untote reduziert, stärkt es langfristig den Nekromanten.
 
 ## **Spielmechanik: Magic-Counter**
 Ähnlich wie bei Wilder Magie in D&D, wird bei jedem Zauberspruch, den ein Spieler wirkt, ein Würfelwurf gemacht. Das Ergebnis bestimmt, ob und wie die magische Energie des Nekromanten beeinflusst wird.
@@ -19,11 +19,11 @@ Die Abenteurer sollen das Luminary Shard bergen, bevor es in die falschen Hände
 Ein alter Tempel in einem dichten Wald, umgeben von Untoten und mit einem schwachen magischen Glanz.
 
 ## **Ablauf des Abenteuers**
-1. **Informationssammlung**: Die Spieler sammeln in einer Stadt Hinweise zum Shard.
+1. **Informationssammlung**: Die Spieler sammeln in einer Stadt Hinweise zum Splitter.
 2. **Reise zum Relikt**: Der Weg zum Tempel beinhaltet Begegnungen mit Untoten und Umwelthindernissen.
 3. **Herausforderungen im Tempel**: Rätsel und Fallen, die sowohl Magie als auch Intelligenz erfordern.
-4. **Konfrontation und Bergung des Shards**: Kampf gegen eine rivalisierende Gruppe.
-5. **Entscheidende Wahl und Konsequenzen**: Nach der Bergung des Shards entscheiden die Spieler über ihr weiteres Vorgehen.
+4. **Konfrontation und Bergung des Splitters**: Kampf gegen eine rivalisierende Gruppe.
+5. **Entscheidende Wahl und Konsequenzen**: Nach der Bergung des Splitters entscheiden die Spieler über ihr weiteres Vorgehen.
 
 ## **Nachspiel**
 Die Anzahl der Würfe, die die magische Energie erhöhen, bestimmt, wie stark der Nekromant in der folgenden Kampagne oder der Boss im Oneshot wird.
@@ -55,4 +55,5 @@ Die Anzahl der Würfe, die die magische Energie erhöhen, bestimmt, wie stark de
 
 # More
 
-[Mondsplitter](mondsplitter.md)
+[Encounters](encounters.md)  
+[Mondsplitter](../items/mondsplitter.md)
