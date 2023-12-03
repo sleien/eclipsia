@@ -1,4 +1,4 @@
-## **Willkommen in der Welt von Eclipsia**
+## Willkommen in der Welt von Eclipsia
 
 Liebe Abenteurer,
 
