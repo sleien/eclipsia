@@ -28,7 +28,7 @@ As a Blood Mage, you gain the following class features.
 | 7     | Life Leech                     |
 | 8     | Ability Score Improvement      |
 | 9     | Iron Will                      |
-| 10    | Subclass Feature,              |
+| 10    | Subclass Feature               |
 | 11    | -                              |
 | 12    | Ability Score Improvement      |
 | 13    | -                              |
@@ -172,6 +172,8 @@ At 5th level, you gain the ability to create a protective barrier of coagulated 
 - **Blood Cost:** Each use of Sanguine Shield costs you hit points equal to the incoming damage but granting you equal amounts of temporary hitpoints. This cost represents the life energy required to fuel the shield.
 
 ## Nine-Tailed Whip Mastery Table
+
+Only two buffs can be active at the time. At 7th and 14th level two additional buffs can be active.
 
 ### Wolf Bone
 +1 to damage rolls (Ferocity).
