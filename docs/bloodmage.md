@@ -1,53 +1,3 @@
-# Blood Mage Class Overview
-- **Hit Dice:** d10
-- **Primary Ability:** Strenght
-- **Saving Throw Proficiencies:** Charsima, Constitution
-- **Armor and Weapon Proficiencies:** Medium armor, Light armor, simple weapons
-
-## Class Features
-1. **Blood Casting:** As a Blood Mage, you use your own life force to fuel your spells. Instead of using spell slots, you take necrotic damage equal to the level of the spell you cast x hero level. This damage cannot be reduced or prevented in any way.
-
-2. **Hemomancy:** At 1st level, gain access to unique blood-based spells ("Blood claws (dagger)," "Sanguine Shield") that do not cause self-damage.
-
-3. **Blood Well:** Starting at 2nd level, whenever you take damage from Blood Casting, gain temporary hit points equal to half the damage taken. These expire after 1 minute.
-
-
-
-## Spells and Abilities
-- **Custom Spell List:** Focus on spells that manipulate life force, create barriers, and control the battlefield. Avoid spells that raise the dead or involve spirits.
-
-- **Unique Abilities:** Create abilities that revolve around self-sacrifice for greater power, control over blood (yours and others'), and manipulating life force for various effects.
-
-
-## Subclasses
-### Flagellant Blood Knight Subclass
-
-#### Level 1: Bloodied Strike
-- **Whip Mastery:** Gain proficiency with whips. When you use a whip, its damage die changes to 1d6. Additionally, when you hit a creature with a whip, you can choose to take 1 hit point of damage to add an extra 1d4 necrotic damage to the attack.
-
-#### Level 2: Sanguine Vigor
-- **Flagellant's Sacrifice:** As a bonus action, you can whip yourself, dealing 1d4 damage to yourself. Doing so empowers your next melee attack within the same turn, adding 2d6 necrotic damage. The self-inflicted damage cannot be reduced or prevented.
-
-#### Level 3: Blood Knight's Ward
-- **Crimson Defense:** Whenever you use your Flagellant's Sacrifice, gain temporary hit points equal to the necrotic damage dealt by your next attack. This represents the life force absorbed through the pain.
-
-#### Level 4: Hemorrhagic Empowerment
-- **Bloody Fervor:** You can use your action to enter a state of Bloody Fervor for 1 minute. While in this state, your whip attacks deal an additional 1d4 necrotic damage, and you have advantage on Strength and Constitution saving throws. After using this feature, you must complete a short or long rest before using it again.
-
-### Optional Rule: Flagellation Focus
-- This rule adds an element of risk versus reward. Each time the Blood Knight uses Flagellant's Sacrifice, they roll a d20. On a roll of 1, they accidentally inflict a more severe wound, taking additional damage or suffering a temporary debuff, such as reduced movement or disadvantage on certain rolls due to the pain.
-
-These abilities are designed to create a unique playstyle that revolves around balancing self-inflicted damage with powerful melee attacks, reflecting the thematic elements of self-flagellation and blood magic. The subclass encourages a high-risk, high-reward approach to combat, suitable for players who enjoy a more daring and unconventional character.
-
-
-
-
-
-
-Creating a full D&D class, especially one as unique as the Blood Mage with the Flagellant Blood Knight subclass, to fit the style of the Player's Handbook is quite an endeavor. I'll outline the class, focusing on key features and level progression, similar to how classes are presented in the Player's Handbook.
-
----
-
 ## Blood Mage Class
 
 ### Class Features
@@ -64,6 +14,31 @@ As a Blood Mage, you gain the following class features.
 - **Tools:** None
 - **Saving Throws:** Intelligence, Constitution
 - **Skills:** Choose two from Arcana, History, Insight, Medicine, and Religion
+
+## Blood Mage Class Features
+
+| Level | Feature                        |
+|-------|--------------------------------|
+| 1     | Blood Casting, Hemomancy       |
+| 2     | Blood Well                     |
+| 3     | Subclass                       |
+| 4     | Ability Score Improvement      |
+| 5     | -                              |
+| 6     | Subclass Feature               |
+| 7     | -                              |
+| 8     | Ability Score Improvement      |
+| 9     | -                              |
+| 10    | Subclass Feature               |
+| 11    | -                              |
+| 12    | Ability Score Improvement      |
+| 13    | -                              |
+| 14    | Subclass Feature               |
+| 15    | -                              |
+| 16    | Ability Score Improvement      |
+| 17    | -                              |
+| 18    | Subclass Feature               |
+| 19    | Ability Score Improvement      |
+| 20    | Avatar of Blood                |
 
 ### Blood Casting
 You use your own life force to fuel your spells. The HP cost of a spell is equal to your level times the spell's level.
@@ -103,9 +78,10 @@ At 18th level, as an action, transfer your hit points to an ally or drain from a
 
 ### Avatar of Blood
 At 20th level, once per long rest, transform into a being of pure blood energy, gaining resistance to all damage, increased speed, and powerful blood abilities for 1 minute.
----
 
-## Flagellant Blood Knight Subclass
+# Subclasses
+
+## Flagellant Blood Knight
 
 ### Nine-Tailed Whip Mastery
 Gain proficiency with the Nine-Tailed Whip, which gains bonuses with different bones added.
@@ -128,35 +104,8 @@ After combat, temporary hit points are frozen and can be renewed with self-damag
 ### Self-Sacrifice Risk
 Instant death if hit points drop to 0 due to self-inflicted damage.
 
-### Avatar of Blood (Level 20)
+### Avatar of Blood
 Transform into a being of pure blood energy, gaining resistance to damage and powerful blood abilities.
-
-Certainly! I'll add level requirements to the Blood Mage class features and create a table for the Nine-Tailed Whip bonuses per different bone added.
-
-## Blood Mage Class Features
-
-| Level | Feature                        |
-|-------|--------------------------------|
-| 1     | Blood Casting, Hemomancy       |
-| 2     | Blood Well                     |
-| 3     | Subclass                       |
-| 4     | Ability Score Improvement      |
-| 5     | -                              |
-| 6     | Subclass Feature               |
-| 7     | -                              |
-| 8     | Ability Score Improvement      |
-| 9     | -                              |
-| 10    | Subclass Feature               |
-| 11    | -                              |
-| 12    | Ability Score Improvement      |
-| 13    | -                              |
-| 14    | Subclass Feature               |
-| 15    | -                              |
-| 16    | Ability Score Improvement      |
-| 17    | -                              |
-| 18    | Subclass Feature               |
-| 19    | Ability Score Improvement      |
-| 20    | Avatar of Blood                |
 
 ## Nine-Tailed Whip Mastery Table
 
