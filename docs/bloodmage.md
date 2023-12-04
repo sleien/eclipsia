@@ -41,13 +41,47 @@ As a Blood Mage, you gain the following class features.
 | 20    | Avatar of Blood                |
 
 ### Blood Casting
-You use your own life force to fuel your spells. The HP cost of a spell is equal to your level times the spell's level.
+You use your own life force to fuel your spells. The HP cost of a spell is equal to your level times the spell's level. Learning two new spells for each level.
+
+### Wound Mechanic
+Risk of deep wounds on self-inflicted damage, with a d20 roll determining effects.
+
+### Blood Mage Spell Slot System
+
+| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | HP Cost Multiplier Beyond Limit |
+|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|---------------------------------|
+| 1     | 2   | -   | -   | -   | -   | -   | -   | -   | -   | 3x                              |
+| 2     | 3   | -   | -   | -   | -   | -   | -   | -   | -   | 3x                              |
+| 3     | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | 3x                              |
+| 4     | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | 2.5x                            |
+| 5     | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | 2.5x                            |
+| 6     | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | 2.5x                            |
+| 7     | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | 2.5x                            |
+| 8     | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | 2x                              |
+| 9     | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | 2x                              |
+| 10    | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | 2x                              |
+| 11    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | 2x                              |
+| 12    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | 1.5x                            |
+| 13    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | 1.5x                            |
+| 14    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | 1.5x                            |
+| 15    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | 1.5x                            |
+| 16    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | 1.5x                            |
+| 17    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | 1.5x                            |
+| 18    | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | 1.5x                            |
+| 19    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1.5x                            |
+| 20    | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | 1.5x                            |
+
+### System Explanation
+**Standard Spellcasting:**  
+Up to the listed number of spells per spell level can be cast at the standard HP cost, which is equal to the character's level times the spell's level.
+
+**Beyond the Limit:**  
+Casting spells beyond these limits costs additional hit points. The multiplier indicates how much more it costs. For example, at 1st level, casting a third 1st-level spell would cost twice the normal amount of hit points.
+
+The "deep wound" damage applies before the multiplier cost. The multiplier is added again, if the limit is surpased again.
 
 ### Hemomancy
 At 1st level, gain access to unique blood-based spells.
-
-### Blood Mage Spellcasting
-Half-caster progression similar to a Paladin or Ranger.
 
 ### Blood Well
 Starting at 2nd level, gain temporary hit points when you take damage from Blood Casting. Half the damage you take.
@@ -93,10 +127,7 @@ As a bonus action, you can whip yourself, dealing 1d6 damage to yourself. Doing 
 Gain additional hit points as per the Tough feat.
 
 ### Pact Weapon Style
-Summon a melee weapon as your pact weapon.
-
-### Wound Mechanic
-Risk of deep wounds on self-inflicted damage, with a d20 roll determining effects.
+Summon a melee weapon as your pact weapon. Which an be called or dismissed as a bonus action.
 
 ### Frozen Temporary HP
 After combat, temporary hit points are frozen and can be renewed with self-damage.
@@ -104,8 +135,41 @@ After combat, temporary hit points are frozen and can be renewed with self-damag
 ### Self-Sacrifice Risk
 Instant death if hit points drop to 0 due to self-inflicted damage.
 
-### Avatar of Blood
-Transform into a being of pure blood energy, gaining resistance to damage and powerful blood abilities.
+### Blood Mage Spellcasting
+Half-caster progression.
+
+#### Blood Mage Spell Slot System
+
+| Level | 1st | 2nd | 3rd | 4th | 5th | HP Cost Multiplier Beyond Limit |
+|-------|-----|-----|-----|-----|-----|---------------------------------|
+| 1     | 2   | -   | -   | -   | -   | 3x                              |
+| 2     | 3   | -   | -   | -   | -   | 3x                              |
+| 3     | 3   | -   | -   | -   | -   | 3x                              |
+| 4     | 4   | -   | -   | -   | -   | 2.5x                            |
+| 5     | 4   | 1   | -   | -   | -   | 2.5x                            |
+| 6     | 4   | 2   | -   | -   | -   | 2.5x                            |
+| 7     | 4   | 2   | -   | -   | -   | 2.5x                            |
+| 8     | 4   | 2   | -   | -   | -   | 2x                              |
+| 9     | 4   | 3   | 1   | -   | -   | 2x                              |
+| 10    | 4   | 3   | 1   | -   | -   | 2x                              |
+| 11    | 4   | 3   | 2   | -   | -   | 2x                              |
+| 12    | 4   | 3   | 2   | -   | -   | 1.5x                            |
+| 13    | 4   | 3   | 3   | 1   | -   | 1.5x                            |
+| 14    | 4   | 3   | 3   | 2   | -   | 1.5x                            |
+| 15    | 4   | 3   | 3   | 2   | -   | 1.5x                            |
+| 16    | 4   | 3   | 3   | 3   | -   | 1.5x                            |
+| 17    | 4   | 3   | 3   | 3   | 1   | 1.5x                            |
+| 18    | 4   | 3   | 3   | 3   | 1   | 1.5x                            |
+| 19    | 4   | 3   | 3   | 3   | 1   | 1.5x                            |
+| 20    | 4   | 3   | 3   | 3   | 2   | 1.5x                            |
+
+### Sanguine Shield
+At 5th level, you gain the ability to create a protective barrier of coagulated blood energy around yourself or an ally within 30 ft. This shield is a manifestation of your mastery over blood magic, offering defense at a moment's notice.
+
+- **Activation:** As a reaction when you or an ally withing 30 ft. takes damage, you can activate the Sanguine Shield.
+- **Effect:** When activated, the shield absorbs half of the incoming damage.
+- **Usage Limit:** You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+- **Blood Cost:** Each use of Sanguine Shield costs you hit points equal to the incoming damage but granting you equal amounts of temporary hitpoints. This cost represents the life energy required to fuel the shield.
 
 ## Nine-Tailed Whip Mastery Table
 
@@ -150,8 +214,6 @@ Advantage on checks to resist being grappled (Reach).
 ### Tiger Bone
 Extra 1d6 slashing damage on the first successful attack per combat (Ferocity).
 
-Each type of bone grants the whip unique properties, enhancing combat effectiveness and offering strategic variety. The choice of bone can significantly alter the wielder's tactics and approach to different combat situations.
-
 # Spelllist
 Creating a detailed spell list for the Blood Mage class, including descriptions for each spell without referencing the original D&D spells, will provide a comprehensive guide for players. Here's the complete spell list:
 
@@ -159,7 +221,7 @@ Creating a detailed spell list for the Blood Mage class, including descriptions 
 
 ### Cantrips (0 Level)
 #### Crimson Bolt
-Launch a bolt of coagulated blood at a target, dealing 1d10 necrotic damage.
+Launch a bolt of coagulated blood at a target, dealing 1d10 necrotic damage. Range: 120 ft.
 #### Hemorrhagic Touch
 Touch a creature to shock them with blood energy, dealing 1d8 necrotic damage and preventing it from taking reactions until the start of your next turn.
 #### Blood Mark
@@ -169,13 +231,13 @@ A drop of blood becomes a bright light or a red glow, illuminating a 20-ft radiu
 
 ### 1st Level
 #### Blood Boil
-Unleash a wave of boiling blood in a 15-ft cone, dealing 3d6 fire damage.
+Unleash a wave of boiling blood in a 15-ft cone, dealing 3d6 necrotic damage.
 #### Sanguine Armor
 As a reaction, create a barrier of hardened blood, granting +5 to AC until your next turn.
 #### Inflict Wounds
 Make a melee spell attack that deals 3d10 necrotic damage on a hit.
 #### Hemorrhagic Spray
-Fire a series of blood darts at targets, dealing 1d4 necrotic damage per dart.
+Fire a series of three blood darts at targets, dealing 1d4 necrotic damage per dart.
 #### Coagulate
 Touch a creature to heal it for 1d8 hit points.
 
@@ -191,7 +253,7 @@ Bolster the health of three creatures, increasing their hit point maximum and cu
 
 ### 3rd Level
 #### Hemorrhage
-Cause a burst of blood energy to explode, dealing 8d6 necrotic damage in a 20-ft radius.
+Cause a burst of blood energy to explode, dealing 8d6 necrotic damage in a 20-ft radius centered around the player.
 #### Vital Transfusion
 Touch a creature to siphon its life, dealing 3d6 necrotic damage and healing yourself for half the amount.
 #### Blood Siphon
