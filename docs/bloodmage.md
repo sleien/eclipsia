@@ -223,94 +223,94 @@ Creating a detailed spell list for the Blood Mage class, including descriptions 
 
 ### Cantrips (0 Level)
 #### Crimson Bolt
-Launch a bolt of coagulated blood at a target, dealing 1d10 necrotic damage. Range: 120 ft.
+Deal 1d10 necrotic damage to a target within 120 ft.
 #### Hemorrhagic Touch
-Touch a creature to shock them with blood energy, dealing 1d8 necrotic damage and preventing it from taking reactions until the start of your next turn.
+Deal 1d8 necrotic damage to a creature you touch, preventing its reactions until your next turn.
 #### Blood Mark
-Choose a target within range. For the duration, you gain advantage on your first attack roll against the target.
+Mark a target within 90 ft. Gain advantage on your first attack against it for 1 hour.
 #### Sanguine Spark
-A drop of blood becomes a bright light or a red glow, illuminating a 20-ft radius.
+Illuminate a 20-ft radius with blood light for up to 1 hour.
 
 ### 1st Level
 #### Blood Boil
-Unleash a wave of boiling blood in a 15-ft cone, dealing 3d6 necrotic damage.
+Deal 3d6 necrotic damage in a 15-ft cone.
 #### Sanguine Armor
-As a reaction, create a barrier of hardened blood, granting +5 to AC until your next turn.
+As a reaction, gain +5 to AC until your next turn.
 #### Inflict Wounds
-Make a melee spell attack that deals 3d10 necrotic damage on a hit.
+Deal 3d10 necrotic damage to a creature you touch.
 #### Hemorrhagic Spray
-Fire a series of three blood darts at targets, dealing 1d4 necrotic damage per dart.
+Fire three blood darts at targets within 60 ft, each dealing 1d4 necrotic damage.
 #### Coagulate
-Touch a creature to heal it for 1d8 hit points.
+Heal a creature you touch for 1d8 hit points.
 
 ### 2nd Level
 #### Vein Freeze
-Paralyze a humanoid target as their blood crystallizes.
+Paralyze a humanoid within 60 ft for 1 minute.
 #### Blood Frenzy
-Conjure a weapon made of blood to attack creatures for 1d8 necrotic damage.
+Summon a blood weapon to attack for 1d8 necrotic damage within 30 ft.
 #### Lesser Blood Transfusion
-Touch a creature to cure a disease or neutralize a poison affecting it.
+Cure disease or neutralize poison on a creature you touch.
 #### Wound Bind
-Bolster the health of three creatures, increasing their hit point maximum and current hit points by 5 for 8 hours.
+Increase hit points of three creatures within 30 ft by 5 for 8 hours.
 
 ### 3rd Level
 #### Hemorrhage
-Cause a burst of blood energy to explode, dealing 8d6 necrotic damage in a 20-ft radius centered around the player.
+Deal 8d6 necrotic damage in a 20-ft radius centered around you.
 #### Vital Transfusion
-Touch a creature to siphon its life, dealing 3d6 necrotic damage and healing yourself for half the amount.
+Deal 3d6 necrotic damage to a creature you touch and heal for half the amount.
 #### Blood Siphon
-Create a secure shelter composed of hardened blood.
+Create a blood shelter for 8 hours.
 #### Clotting Cloud
-Create a 20-ft radius of dense, reddish fog that obscures vision.
+Create a 20-ft radius fog that obscures vision for 10 minutes.
 
 ### 4th Level
 #### Bloodbind
-Banish a creature to a realm of coagulated blood, removing them from combat temporarily.
+Banish a creature within 60 ft to a blood realm for 1 minute.
 #### Sanguine Sentinel
-Summon a guardian entity made of blood that deals 3d8 necrotic damage to enemies that come near.
+Summon a blood guardian that deals 3d8 necrotic damage to nearby enemies for 5 minutes.
 #### Greater Blood Transfusion
-Touch a creature to heal all diseases, poisons, blindness, deafness, and any reduction to its hit point maximum.
+Heal all ailments on a creature you touch.
 #### Crimson Shield
-Touch a creature to harden its skin like coagulated blood, granting resistance to nonmagical bludgeoning, piercing, and slashing damage.
+Grant a creature you touch resistance to nonmagical damage for 1 hour.
 
 ### 5th Level
 #### Crimson Wave
-Release a massive wave of blood, dealing 8d8 cold damage and potentially freezing enemies.
+Deal 8d8 necrotic damage in a 30-ft cone and potentially paralyze targets for 1 turn.
 #### Life Leech
-Enchant a target to siphon their life force over time, healing you periodically.
+Enchant a target within 60 ft to siphon their life force over 1 hour.
 #### Blood Pact
-Create a circle of blood that teleports creatures to a pre-determined location.
+Create a teleportation circle with a 10-ft radius.
 #### Sanguine Scrying
-Use a pool of blood to see and hear a particular creature at a distance.
+Scry on a creature using a blood pool for up to 10 minutes.
 
 ### 6th Level
 #### Bloodstorm
-Unleash a storm of blood bolts that leap from target to target, dealing 10d8 necrotic damage.
+Deal 10d8 necrotic damage to multiple targets within 120 ft.
 #### Vein Corruption
-Send a beam of corrupting blood energy that deals 10d6+40 necrotic damage.
+Deal 10d6+40 necrotic damage to a creature within 150 ft.
 #### Circulatory Stasis
-Create a sphere around you that blocks spells of 5th level or lower.
+Create a spell-blocking sphere with a 10-ft radius for up to 1 minute.
 
 ### 7th Level
 #### Crimson Cage
-Trap a creature in a cage made of solidified blood.
+Trap a creature within 60 ft in a blood cage for up to 1 hour.
 #### Exsanguinate
-Point at a creature within range, causing it to suffer extreme blood loss and potentially die.
+Cause extreme blood loss to a creature within 60 ft, potentially causing death.
 #### Blood Mirage
-Create a landscape of illusory blood and flesh over a 1-mile square.
+Create a 1-mile square illusion of blood and flesh for up to 24 hours.
 
 ### 8th Level
 #### Blood Eclipse
-Create a blinding explosion of blood energy, dealing 12d6 radiant damage and blinding enemies.
+Deal 12d6 radiant damage and blind creatures within a 60-ft radius for up to 1 minute.
 #### Heart of the Phoenix
-Create a duplicate of yourself from your own blood as a contingency against death.
+Create a blood clone of yourself as a life contingency.
 #### Sanguine Demiplane
-Create a small pocket dimension made of blood and flesh.
+Create a blood and flesh pocket dimension for up to 1 hour.
 
 ### 9th Level
 #### Avatar of Hemomancy
-Transform into a powerful being of blood, gaining new abilities and immense power.
+Transform into a blood being with new powers for up to 1 hour.
 #### Blood Tsunami
-Summon a massive wave of blood, dealing 10d10 bludgeoning damage and sweeping away anything in its path.
+Summon a wave of blood dealing 10d10 bludgeoning damage within a 300-ft line.
 #### Vein of the World
-Return a dead creature to life by infusing it with your own blood.
+Revive a dead creature by infusing it with your blood.
