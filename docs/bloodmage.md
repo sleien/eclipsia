@@ -76,7 +76,7 @@ Risk of deep wounds on self-inflicted damage, with a d20 roll determining effect
 Up to the listed number of spells per spell level can be cast at the standard HP cost, which is equal to the character's level times the spell's level.
 
 **Beyond the Limit:**  
-Casting spells beyond these limits costs additional hit points. The multiplier indicates how much more it costs. For example, at 1st level, casting a third 1st-level spell would cost twice the normal amount of hit points.
+Casting spells beyond these limits costs additional hit points. The multiplier indicates how much more it costs. For example, at 1st level, casting a third 1st-level spell would cost thrice the normal amount of hit points.
 
 The "deep wound" damage applies before the multiplier cost. The multiplier is added again, if the limit is surpased again.
 
@@ -215,6 +215,8 @@ Sense creatures' blood within 30 ft. in water (Bloodsense).
 Advantage on checks to resist being grappled (Reach).
 ### Tiger Bone
 Extra 1d6 slashing damage on the first successful attack per combat (Ferocity).
+### Human Bone
+When you strike an enemy with the whip, the target must succeed on a Wisdom saving throw against your spell save DC or become frightened of you until the end of your next turn. Once a target succeeds on this saving throw, it is immune to the fear effect from this whip for the next 24 hours.
 
 # Spelllist
 Creating a detailed spell list for the Blood Mage class, including descriptions for each spell without referencing the original D&D spells, will provide a comprehensive guide for players. Here's the complete spell list:
