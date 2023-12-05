@@ -4,7 +4,7 @@ Liebe Abenteurer,
 
 ihr seid dabei, eine Reise in die Welt von Eclipsia zu beginnen, eine Welt, in der die Magie einst so mächtig und allgegenwärtig war wie das Licht der Sonne. Doch jetzt, in dieser Ära, befindet sich Eclipsia an einem Wendepunkt. Die Magie, die Lebensader dieser Welt, zeigt Anzeichen des Verfalls und des Missbrauchs, und die natürliche Ordnung beginnt zu wanken.
 
-In Eclipsia, einem Land voller alter Geheimnisse und verlorener Geschichten, stehen euch unzählige Pfade offen. Ihr könntet ein mutiger Krieger aus den nördlichen Barbarenstämmen sein, ein listiger Dieb aus den Schatten der großen Städte, ein weiser Magier, der die Geheimnisse der alten Magie erforscht, oder ein frommer Kleriker, der die Götter um Führung in diesen dunklen Zeiten bittet.
+In Eclipsia, einem Land voller alter Geheimnisse und verlorener Geschichten, stehen euch unzählige Pfade offen. Ihr könntet ein mutiger Krieger aus den nördlichen Barbarenstämmen sein, ein listiger Dieb aus den Schatten der grossen Städte, ein weiser Magier, der die Geheimnisse der alten Magie erforscht, oder ein frommer Kleriker, der die Götter um Führung in diesen dunklen Zeiten bittet.
 
 ## Charaktererstellung
 ### Hintergrund

@@ -216,7 +216,7 @@ Advantage on checks to resist being grappled (Reach).
 ### Tiger Bone
 Extra 1d6 slashing damage on the first successful attack per combat (Ferocity).
 ### Human Bone
-When you strike an enemy with the whip, the target must succeed on a Wisdom saving throw against your spell save DC or become frightened of you until the end of your next turn. Once a target succeeds on this saving throw, it is immune to the fear effect from this whip for the next 24 hours.
+When you strike an enemy with the whip, the target must succeed on a Wisdom saving throw against your spell save DC or become frightened of you until the end of your next turn. Once a target succeeds on this saving throw, it is immune to the fear effect from this whip for the next 24 hours. (Monstrosity)
 
 # Spelllist
 Creating a detailed spell list for the Blood Mage class, including descriptions for each spell without referencing the original D&D spells, will provide a comprehensive guide for players. Here's the complete spell list:
