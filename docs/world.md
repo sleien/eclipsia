@@ -11,7 +11,7 @@
    Ein feuchtes und nebliges Sumpfgebiet, durchzogen von trüben Gewässern und dichtem Unterholz. Hier finden sich seltene Kräuter und gefährliche Kreaturen, die in den versteckten Tiefen des Sumpfes lauern.
 
 3. Nord-Osten - Felsgebirge:
-   Ein majestätisches Gebirge mit zerklüfteten Gipfeln und tiefen Tälern. Die Bergregion ist Heimat für Bergvölker und Minen, in denen wertvolle Erze und Kristalle abgebaut werden.
+   Ein majestätisches Gebirge mit zerklüfteten Gipfeln und tiefen Tälern. Die Bergregion ist Heimat für Bergvölker und Minen, in denen wertvolle Erze und Kristalle abgebaut werden. Die zwei alleinstehnden Berge im Süden des Felsgebirge, der Drachenberg im Norden und der Wyvernberg im Süden, sind von Legenden über drachenähnlichen Wesen umhüllt.
 
 4. Mitte - Grasland:
    Ein weitläufiges Grasland mit vielen Flüssen, das ein fruchtbares und lebhaftes Ökosystem beherbergt. Hier finden sich zahlreiche Bauernhöfe, kleine Dörfer und Handelswege.
