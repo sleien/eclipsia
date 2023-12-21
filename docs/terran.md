@@ -28,7 +28,7 @@
 | Kratzender Glimmerschiefer | Rätsel (Mystery) |
 | Pochender Lehmboden | Herz (Heart) |
 | Zerfallender Obsidian | Ende (End) |
-| Gluckernder Schlamm | Spaß (Fun) |
+| Gluckernder Schlamm | Spass (Fun) |
 | Seufzender Moos | Trauer (Sorrow) |
 | Knisternder Kalk | Freude (Joy) |
 | Rutschender Geröll | Abenteuer (Adventure) |

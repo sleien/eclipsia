@@ -58,3 +58,4 @@ Die Anzahl der Würfe, die die magische Energie erhöhen, bestimmt, wie stark de
 [Encounters](encounters.md)  
 [Mondsplitter](../items/mondsplitter.md)
 [Geeni](geeni_the_shadow.md)
+[Sandarmor](sandarmor.md)
