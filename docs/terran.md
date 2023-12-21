@@ -1,0 +1,55 @@
+### Terran-Deutsch Wörterbuch
+
+| Terran (Elemental) | Deutsch (Common) |
+|--------------------|------------------|
+| Grollender Stein | Freund (Friend) |
+| Erdrutsch | Reise (Journey) |
+| Knirschender Sand | Geheimnis (Secret) |
+| Zerbrechender Fels | Kraft (Strength) |
+| Flüsternde Erde | Wissen (Knowledge) |
+| Echoender Kiesel | Gespräch (Conversation) |
+| Rauschender Kies | Fluss (River) |
+| Murmelnder Lehm | Heimat (Home) |
+| Singender Quarz | Musik (Music) |
+| Tiefes Gesteinsdröhnen | Angst (Fear) |
+| Klirrender Frost | Winter (Winter) |
+| Wehender Staub | Vergangenheit (Past) |
+| Zischender Dampf | Zorn (Anger) |
+| Prasselnder Regen | Hoffnung (Hope) |
+| Splitternder Granit | Krieg (War) |
+| Kreischende Schiefer | Schrei (Scream) |
+| Polternder Schotter | Lachen (Laughter) |
+| Funkelnder Kristall | Schönheit (Beauty) |
+| Raschelnde Kiesel | Flüstern (Whisper) |
+| Knackender Marmor | Entscheidung (Decision) |
+| Bröckelnder Kalkstein | Alter (Age) |
+| Summender Basalt | Nacht (Night) |
+| Glimmender Lavastrom | Leidenschaft (Passion) |
+| Bebender Ton | Tanz (Dance) |
+| Rasender Sandsturm | Chaos (Chaos) |
+| Kratzender Glimmerschiefer | Rätsel (Mystery) |
+| Pochender Lehmboden | Herz (Heart) |
+| Zerfallender Obsidian | Ende (End) |
+| Gluckernder Schlamm | Spaß (Fun) |
+| Seufzender Moos | Trauer (Sorrow) |
+| Knisternder Kalk | Freude (Joy) |
+| Rutschender Geröll | Abenteuer (Adventure) |
+| Kollernder Kiesel | Spiel (Game) |
+| Hallender Dolomit | Echo (Echo) |
+| Klackender Feuerstein | Funke (Spark) |
+| Sausender Wind | Geschwindigkeit (Speed) |
+| Krachender Donner | Macht (Power) |
+| Rumpelnder Felssturz | Zerstörung (Destruction) |
+| Gähnender Abgrund | Leere (Emptiness) |
+| Züngelnder Sandwirbel | Verführung (Seduction) |
+| Sickernder Grundwasser | Leben (Life) |
+| Schimmernder Schiefer | Mond (Moon) |
+| Dröhnender Bergsturz | Donner (Thunder) |
+| Zirpende Kiesel | Gesang (Song) |
+| Schleichender Sandpfad | Pfad (Path) |
+| Pfeifender Windhauch | Nachricht (Message) |
+| Knarrender Felsbogen | Tor (Gate) |
+| Plätschernder Bach | Quelle (Source) |
+| Raunender Felsen | Weisheit (Wisdom) |
+| Flatternder Sandnebel | Geist (Spirit) |
+| Knisterndes Erz | Reichtum (Wealth) |

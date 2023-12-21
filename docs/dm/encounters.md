@@ -23,6 +23,10 @@
 
 ![](../img/geist_verteidiger.png)
 
+### Todesschmetterlingschwarm
+
+![](../img/death_butterfly_swarm.png)
+
 ### Untote Wächter des Splitters
 - **Lebenspunkte (HP):** 45
 - **Rüstungsklasse (AC):** 13 (Durch verfallene Rüstung)
