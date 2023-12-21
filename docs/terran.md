@@ -1,5 +1,3 @@
-### Terran-Deutsch Wörterbuch
-
 | Terran (Elemental) | Deutsch (Common) |
 |--------------------|------------------|
 | Grollender Stein | Freund (Friend) |
